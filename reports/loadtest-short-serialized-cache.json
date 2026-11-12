@@ -1,0 +1,22 @@
+{
+  "started_at_utc": "2026-11-04T09:19:16.989581+00:00",
+  "duration_seconds": 120.17,
+  "wall_duration_seconds": 120.17,
+  "max_progress_gap_seconds": 10.03,
+  "virtual_users": 20,
+  "total_requests": 8422,
+  "statuses": {
+    "200": 8422
+  },
+  "search_success": 4211,
+  "recommendation_success": 4211,
+  "search_p95_ms": 872.57,
+  "recommendation_p95_ms": 901.84,
+  "server_error_rate_percent": 0.0,
+  "connection_errors": 0,
+  "minimum_samples_met": true,
+  "continuous_30min": false,
+  "search_target_met": false,
+  "recommendation_target_met": true,
+  "server_error_target_met": true
+}

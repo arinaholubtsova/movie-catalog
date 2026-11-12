@@ -1,0 +1,60 @@
+{
+  "kind": "automated_browser_check_not_human_usability_study",
+  "sessions": [
+    {
+      "session": 1,
+      "tasks": {
+        "find_movie_ms": 133,
+        "add_watchlist_ms": 116,
+        "rate_movie_ms": 45,
+        "open_recommendations_ms": 86
+      },
+      "recommendation_cards": 10,
+      "success": true
+    },
+    {
+      "session": 2,
+      "tasks": {
+        "find_movie_ms": 93,
+        "add_watchlist_ms": 86,
+        "rate_movie_ms": 43,
+        "open_recommendations_ms": 75
+      },
+      "recommendation_cards": 10,
+      "success": true
+    },
+    {
+      "session": 3,
+      "tasks": {
+        "find_movie_ms": 124,
+        "add_watchlist_ms": 78,
+        "rate_movie_ms": 51,
+        "open_recommendations_ms": 123
+      },
+      "recommendation_cards": 10,
+      "success": true
+    },
+    {
+      "session": 4,
+      "tasks": {
+        "find_movie_ms": 126,
+        "add_watchlist_ms": 58,
+        "rate_movie_ms": 40,
+        "open_recommendations_ms": 78
+      },
+      "recommendation_cards": 10,
+      "success": true
+    },
+    {
+      "session": 5,
+      "tasks": {
+        "find_movie_ms": 92,
+        "add_watchlist_ms": 66,
+        "rate_movie_ms": 44,
+        "open_recommendations_ms": 89
+      },
+      "recommendation_cards": 10,
+      "success": true
+    }
+  ]
+}
