@@ -1,0 +1,5 @@
+[
+  {"title":"Demo Orbit","year":2024,"overview":"Екіпаж дослідницького корабля вирушає до невідомої планети й знаходить сигнал, що може змінити уявлення людства про космос.","keywords":"space, discovery, crew","poster_url":"/posters/demo-orbit.svg","external_id":"demo-orbit-2024","genre_ids":[12],"actors":["Maya Brooks","Ethan Cole","Noah Reed"],"directors":["Lena Hart"]},
+  {"title":"Demo Harbor","year":2023,"overview":"Після багатьох років розлуки родина збирається в маленькому портовому місті, щоб примиритися з минулим і почати нове життя.","keywords":"family, harbor, reunion","poster_url":"/posters/demo-harbor.svg","external_id":"demo-harbor-2023","genre_ids":[7],"actors":["Olivia Stone","Daniel Ross","Sophie Lane"],"directors":["Martin Wells"]},
+  {"title":"Demo Cipher","year":2025,"overview":"Детективка розшифровує серію загадкових повідомлень, які ведуть до давньої справи та небезпечної таємниці міста.","keywords":"mystery, code, detective","poster_url":"/posters/demo-cipher.svg","external_id":"demo-cipher-2025","genre_ids":[10],"actors":["Nina Blake","Marcus Reed","Eva Stone"],"directors":["Adrian Cross"]}
+]
