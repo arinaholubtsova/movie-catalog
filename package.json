@@ -1,0 +1,16 @@
+{
+  "name": "mtsd",
+  "version": "1.0.0",
+  "description": "Реалізація розділів 3–4 проєкту на основі [звіту з Requirements і Design](Movie_Catalog_Requirements_Holubtsova.docx). API побудовано на FastAPI/SQLAlchemy; клієнт — React/TypeScript; основна БД у Docker — PostgreSQL 16. Алгоритм використовує ваги взаємодій і cosine similarity з розділу 1.6 звіту.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "playwright": "^1.65.0"
+  }
+}
